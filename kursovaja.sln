@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursovaja", "kursovaja\kursovaja.csproj", "{E83FF3C6-F3BE-4D2D-AC24-8F81AADB6904}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchedulerWindows", "..\SchedulerWindows\SchedulerWindows\SchedulerWindows.csproj", "{4B9B5CDA-DF47-49D0-8B04-2DC8AB9FB152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83FF3C6-F3BE-4D2D-AC24-8F81AADB6904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83FF3C6-F3BE-4D2D-AC24-8F81AADB6904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83FF3C6-F3BE-4D2D-AC24-8F81AADB6904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83FF3C6-F3BE-4D2D-AC24-8F81AADB6904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9B5CDA-DF47-49D0-8B04-2DC8AB9FB152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9B5CDA-DF47-49D0-8B04-2DC8AB9FB152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9B5CDA-DF47-49D0-8B04-2DC8AB9FB152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9B5CDA-DF47-49D0-8B04-2DC8AB9FB152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E15ECA23-C455-429F-AE75-8D115013ADC8}
+	EndGlobalSection
+EndGlobal

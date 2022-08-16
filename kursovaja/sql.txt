@@ -1,0 +1,9 @@
+create table backuplist (
+    № int PRIMARY KEY AUTO_INCREMENT,
+    Название varchar(30),
+    Путь varchar(100)
+)
+
+alter table backuplist AUTO_INCREMENT=1;
+
+insert into backuplist VALUEs(1, "bd", "C:\ProgramFiles\mysql\backup\bd.BD")
